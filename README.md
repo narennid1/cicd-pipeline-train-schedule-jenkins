@@ -7,8 +7,8 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 You need a Java JDK 7 or later to run the csdcfdsa fdav build. You can run the build like this:
 
     ./gradlew build
-
-You can run the app with:csdacdscafdv
+dbybytnbynutnhbhghb
+You can run the app with:csdacdscafdvgfbgt
 
     ./gradlew npm_start
 
